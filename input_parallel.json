@@ -1,0 +1,9 @@
+{
+  "mode": "parallel",
+  "text_length": 10000000,
+  "seed": 42,
+  "shift": 3,
+  "key": "TK42-PARCS",
+  "rounds": 32,
+  "block_size": 65536
+}
